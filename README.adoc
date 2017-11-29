@@ -1,0 +1,4 @@
+# docker-python3-phantomjs-selenium
+
+Docker image based on the official `python:3` image. Adds `phantomjs` and `selenium`.
+
